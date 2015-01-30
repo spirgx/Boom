@@ -1,0 +1,11 @@
+D:\Boom\Boom\bin\Release\Boom.exe.config
+D:\Boom\Boom\bin\Release\Boom.exe
+D:\Boom\Boom\bin\Release\Boom.pdb
+D:\Boom\Boom\obj\Release\Boom.Form1.resources
+D:\Boom\Boom\obj\Release\Boom.Properties.Resources.resources
+D:\Boom\Boom\obj\Release\Boom.csproj.GenerateResource.Cache
+D:\Boom\Boom\obj\Release\Boom.exe
+D:\Boom\Boom\obj\Release\Boom.pdb
+C:\Users\SPIR\Desktop\Boom\Boom\bin\Release\Boom.exe.config
+C:\Users\SPIR\Desktop\Boom\Boom\obj\Release\Boom.exe
+C:\Users\SPIR\Desktop\Boom\Boom\obj\Release\Boom.pdb

@@ -1,0 +1,8 @@
+D:\Boom\Boom\bin\Debug\Boom.exe.config
+D:\Boom\Boom\bin\Debug\Boom.exe
+D:\Boom\Boom\bin\Debug\Boom.pdb
+D:\Boom\Boom\obj\Debug\Boom.Form1.resources
+D:\Boom\Boom\obj\Debug\Boom.Properties.Resources.resources
+D:\Boom\Boom\obj\Debug\Boom.csproj.GenerateResource.Cache
+D:\Boom\Boom\obj\Debug\Boom.exe
+D:\Boom\Boom\obj\Debug\Boom.pdb
